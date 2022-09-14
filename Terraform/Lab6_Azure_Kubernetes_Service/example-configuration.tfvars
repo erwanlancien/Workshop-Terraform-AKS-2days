@@ -1,6 +1,6 @@
 keyvault_rg            = "RG-TalanTFLabKV"
 keyvault_name          = "kveln"
-azure_region           = "westus"
+azure_region           = "westeurope"
 resource_group         = "RG-TalanTFLab"
 cluster_name           = "elnclusteraks"
 dns_name               = "elntalandns"
