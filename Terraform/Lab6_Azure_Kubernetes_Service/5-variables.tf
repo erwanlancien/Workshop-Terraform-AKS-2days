@@ -10,7 +10,7 @@ variable "azure_region" {
 #  Resource Group Name
 variable "resource_group" {
   type    = string
-  default = "RG-AKSCluster"
+  default = "RG-TalanTFLab"
 }
 
 # Virtual Network name
