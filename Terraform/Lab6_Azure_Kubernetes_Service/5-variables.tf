@@ -158,9 +158,9 @@ variable "defaultpool-securitypolicy" {
 
 
 #KeyVault Resource Group and KeyVaultName
-# variable "keyvault_rg" {
-#   type = string
-# }
-# variable "keyvault_name" {
-#   type = string
-# }
+ variable "keyvault_rg" {
+   type = string
+}
+variable "keyvault_name" {
+   type = string
+}
